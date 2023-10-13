@@ -1,0 +1,22 @@
+{
+  "name": "jemstore",
+  "version": "1.0.0",
+  "description": "Jemstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewiskerley/jemstore.git"
+  },
+  "keywords": [
+    "jem"
+  ],
+  "author": "Lewis Kerley, Jack Hicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewiskerley/jemstore/issues"
+  },
+  "homepage": "https://github.com/lewiskerley/jemstore#readme"
+}
